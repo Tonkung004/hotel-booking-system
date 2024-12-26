@@ -1,6 +1,6 @@
 
 <p align="left">
-    <h1><u>C# Hotel Booking Manage System Project</u></h1>
+    <h1><u>C# Hotel Booking System Project</u></h1>
 </p>
 
 ## About Project
